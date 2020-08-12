@@ -1,22 +1,17 @@
-# genese-website
-Prototype for the new genese website in react js.
+# Hackathon 2020
+This is a skinned reactjs app created to demonstrate app deployment in GCP for hackathon held at eBay in August 2020.
 
 ## instructions to run the project
-checkout or clone this project 
-open terminal
-naviagate to project folder 
-type the following commands:
+1. checkout or clone this project 
+2. open terminal
+3. navigate to project folder 
+4. type the following commands:
 npm install
 npm start
 
-if you're using yarn:
-yarn install
-yarn start
-
 ## instructions to test the project
-npm install
-npm test
-
-if you're using yarn:
-yarn install
-yarn test
+1. checkout or clone this project 
+2. open terminal
+3. navigate to project folder 
+4. type the following command:
+npm test --watchAll

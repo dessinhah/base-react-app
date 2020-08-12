@@ -2,13 +2,20 @@
   text-align: center;
 }
 
+body {
+  font-family: Castledown,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
 .App-logo {
   height: 10vmin;
   pointer-events: none;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #3c3241;
   min-height: 10vh;
   display: block;
   align-items: right;

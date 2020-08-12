@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
-import Navigation from "./Navigation";
-import Carousel from "./CarouselSlider";
-import Homepage from "./Homepage/Homepage";
+import Navigation from "./Components/Navigation";
+import Carousel from "./Components/CarouselSlider";
+import Homepage from "./Pages/Homepage/Homepage";
 
 function App() {
   return (
